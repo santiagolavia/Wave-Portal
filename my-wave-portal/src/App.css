@@ -1,0 +1,52 @@
+
+body {
+  background-color: #F8F8FF;
+}
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 64px;
+  
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 30%;
+  padding: 30px;
+  border: solid;
+  border-width: 4px;
+  border-radius: 50px;
+  box-shadow: 5px 10px teal;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.bio {
+  text-align:  center;
+  color: gray;
+  margin-top: 16px;
+}
+
+.waveButton {
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  
+}
+.counter{
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  font-weight: bold;
+}
