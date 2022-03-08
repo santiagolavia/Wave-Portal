@@ -2,6 +2,10 @@ node_modules
 .env
 coverage
 coverage.json
+package.json
+package-2.json
+package-lock.json
+package-lock2.json
 typechain
 
 #Hardhat files
